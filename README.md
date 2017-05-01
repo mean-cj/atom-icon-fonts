@@ -28,10 +28,10 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 
 ### Prefixes
 
-Prefix         | Icon Font                           | Version | cdnjs | jsDelivr
----------------|-------------------------------------|---------|-------|---------
-`fa`           | [Font Awesome][fa]                  | 4.7.0   | ✅    | ✅
-`glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
+Prefix         | Icon Font                           | Version
+---------------|-------------------------------------|---------
+`fa`           | [Font Awesome][fa]                  | 4.7.0
+`glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6
 
 Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/atom-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy).
 
