@@ -2,6 +2,10 @@
   "name": "icon-fonts",
   "version": "2.16.2",
   "description": "Atom snippets for a variety of icon fonts",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
   "keywords": [
     "android icons",
     "font awesome",
